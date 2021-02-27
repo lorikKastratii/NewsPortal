@@ -1,0 +1,132 @@
+﻿@model IEnumerable<NewsPortal.Models.News>
+@*@model cloudscribe.Pagination.Models.PagedResult<News>*@
+@{
+    ViewData["Title"] = "News";
+}
+
+<head>
+    <link href="~/News/css/cards.css" rel="stylesheet" />
+</head>
+
+
+
+
+
+
+<div class="d-flex justify-content-end my-5">
+    <form method="get">
+        <div class="input-group bg-warning d-flex">
+            <input name="search" placeholder="Search" class="" />
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model) {
+            <div class="card-wrapper card-image-title-description col-lg-4 col-md-6 col-xs-12">
+                <div class="card">
+                    <div class="card-img-wrapper">
+                        <img class="card-img-top" src="~/News/img/@item.Image">
+                    </div>
+                    <div class="card-body">
+                        <a asp-action="NewsDetails" asp-route-id="@item.Id" class="h5 card-title text-info">@item.Name</a>
+                        <p class="card-text">
+                            @if (item.Description.Length > 200) {
+                                @item.Description.Substring(0, 200)
+                            }
+                            else {
+                                @item.Description
+                            }.....
+                        </p>
+                        <a asp-action="NewsDetails" asp-route-id="@item.Id" class="btn btn-primary">Lexo me shume</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@*<div>
+    <cs-pager cs-paging-pagenumber="Model.PageNumber" cs-paging-totalitems="Model.TotalItems" cs-paging-pagesize="Model.PageSize" asp-controller="Home" asp-action="News" cs-pager-li-current-class="page-item active"
+              cs-pager-li-other-class="page-item"
+              cs-pager-li-non-active-class="page-item disabled"
+              cs-pager-link-current-class="page-link"
+              cs-pager-link-other-class="page-link">
+
+    </cs-pager>
+</div>*@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*@foreach (var item in Model) {
+
+        <div class="card my-3">
+            <div class="card-horizontal d-flex">
+                <div class="img-square-wrapper">
+                    <a asp-action="NewsDetails" asp-route-id="@item.Id"><img class="" src="~/News/img/news-350x223-1.jpg" alt="Card image cap"></a>
+                </div>
+                <div class="card-body">
+                    <a asp-action="NewsDetails" asp-route-id="@item.Id" class="h4 card-title text-primary">@item.Name</a>
+                    <p class="card-body">@item.Description</p>
+                </div>
+            </div>
+        </div>
+    }*@
+
+
+
+
+
+@*@foreach (var item in Model) {
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card shadow">
+                    <img class="card-img-top" src="~/News/img/news-350x223-1.jpg" />
+                    <div class="card-body">
+                        <p class="card-text">@item.Name</p>
+                        <a asp-action="NewsDetails" asp-route-id="@item.Id" class="btn btn-info w-100 mb-2">Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }*@

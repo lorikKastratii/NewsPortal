@@ -1,0 +1,19 @@
+﻿@model NewsPortal.Models.News
+@{
+    ViewData["Title"] = "NewsDetails";
+}
+
+
+
+<div class="container-fluid d-flex justify-content-center">
+    <div class="card col-md-8 my-5 shadow p-5">
+        <img class="card-img-top" src="~/News/img/@Model.Image" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-primary">@Model.Name</h4>
+            <p class="card-text">@Model.Description</p>
+            <a class="btn btn-primary" asp-action="Index">Back to Home</a>
+        </div>
+    </div>
+</div>
+
+

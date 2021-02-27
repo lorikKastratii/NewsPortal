@@ -1,0 +1,11 @@
+﻿@model IEnumerable<IdentityUser>
+@{
+    ViewData["Title"] = "Index";
+}
+
+@foreach (var item in Model) {
+    <h1> @item.UserName </h1>
+}
+
+
+<h1>Hello</h1>

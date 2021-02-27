@@ -1,0 +1,30 @@
+﻿@model UserModel
+
+@*<div class="container">
+    
+</div>*@
+
+<div class="row">
+    <div class="col-md-10 shadow-lg p-3 mb-5 bg-white rounded my-0 mx-auto">
+        <form asp-action="CreateUser" asp-controller="Administration">
+            <div class="form-group">
+                <label class="control-label">Username</label>
+                <input type="text" asp-for="Username" class="form-control" value="" placeholder="Username" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Password</label>
+                <input type="password" asp-for="Password" class="form-control" value="" placeholder="Password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Confirm Password</label>
+                <input type="password" asp-for="ConfirmPassword" class="form-control" value="" placeholder="Confirm Password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary"> Create </button>
+            </div>
+        </form>
+    </div>
+</div>

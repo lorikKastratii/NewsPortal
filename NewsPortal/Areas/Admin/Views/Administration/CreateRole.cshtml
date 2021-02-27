@@ -1,0 +1,14 @@
+﻿@model RoleModel
+
+<div class="container">
+    <div class="row">
+        <form action="createrole" method="post">
+            <div class="form-group">
+                <label asp-for="RoleName"></label>
+                <input type="text" asp-for="RoleName" class="form-control" value="" />
+                <span asp-validation-for="RoleName"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Create Role</button>
+        </form>
+    </div>
+</div>

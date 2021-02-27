@@ -1,0 +1,51 @@
+﻿@using NewsPortal.Areas.Admin.Models
+@model NewsPortal.Models.News
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+
+<div class="row">
+    <h1 class="my-o mx-auto">Edit News</h1>
+    <div class="col-md-10 shadow-lg p-3 bg-white rounded my-0 mx-auto">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label-file"></label>
+                <input asp-for="ImageFile" class="form-control-file" type="file" accept="image/*" value="@Model.ImageFile"/>
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control">
+                    @foreach (var item in ViewBag.Categories) {
+                        <option value="@item.id">@item.Name</option>
+                    }
+
+                </select>
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-primary mt-5" asp-action="Index">Back to List</a>
+</div>
+

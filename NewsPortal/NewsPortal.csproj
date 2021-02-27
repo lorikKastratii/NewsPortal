@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-NewsPortal-42B54C07-C823-436D-A73B-1B00A34D038D</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20210111201423_AddNewsModel.cs" />
+    <Compile Remove="Data\Migrations\20210111201423_AddNewsModel.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210111201542_AddNewsModel.cs" />
+    <Compile Remove="Data\Migrations\20210111201542_AddNewsModel.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210112232400_AddBaseEntity.cs" />
+    <Compile Remove="Data\Migrations\20210112232400_AddBaseEntity.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210112235922_BaseEntityModel.cs" />
+    <Compile Remove="Data\Migrations\20210112235922_BaseEntityModel.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210113000209_AddNewsModel.cs" />
+    <Compile Remove="Data\Migrations\20210113000209_AddNewsModel.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210123222250_AddCategoryAndNews.cs" />
+    <Compile Remove="Data\Migrations\20210123222250_AddCategoryAndNews.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210129213138_AddDescriptionColumn.cs" />
+    <Compile Remove="Data\Migrations\20210129213138_AddDescriptionColumn.Designer.cs" />
+    <Compile Remove="Data\Migrations\20210129220725_AddCategoryModel.cs" />
+    <Compile Remove="Data\Migrations\20210129220725_AddCategoryModel.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="cloudscribe.Pagination.Models" Version="1.1.0" />
+    <PackageReference Include="cloudscribe.Web.Pagination" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Moderator\Data\" />
+    <Folder Include="Areas\Moderator\Models\" />
+    <Folder Include="wwwroot\Admin\css\" />
+    <Folder Include="wwwroot\Admin\js\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\News\lib\slick\fonts\slick.svg" />
+  </ItemGroup>
+
+</Project>

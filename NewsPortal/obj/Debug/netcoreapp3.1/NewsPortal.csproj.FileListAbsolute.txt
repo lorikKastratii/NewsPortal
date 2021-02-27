@@ -1,0 +1,1565 @@
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.StaticWebAssets.xml
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.exe
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.deps.json
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.runtimeconfig.json
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.runtimeconfig.dev.json
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.pdb
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.Views.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.Views.pdb
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.AssemblyInfoInputs.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.AssemblyInfo.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csproj.CoreCompileInputs.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorAssemblyInfo.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorAssemblyInfo.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\staticwebassets\NewsPortal.StaticWebAssets.Manifest.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\staticwebassets\NewsPortal.StaticWebAssets.xml
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsPortal.styles.css
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.TagHelpers.input.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.TagHelpers.output.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorCoreGenerate.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorTargetAssemblyInfo.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorTargetAssemblyInfo.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.Views.pdb
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csproj.CopyComplete
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.dll
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.pdb
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.genruntimeconfig.cache
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Moderator\Views\Home\Dashboard.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NewsLayout.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Delete.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewsDetails.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\SportNews.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowbizNews.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\TeknologjiNews.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csprojAssemblyReference.cache
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Users.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Projects\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\Projects\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.StaticWebAssets.xml
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.exe
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.deps.json
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.runtimeconfig.json
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.runtimeconfig.dev.json
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.pdb
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.Views.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.Views.pdb
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csprojAssemblyReference.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.AssemblyInfoInputs.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.AssemblyInfo.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csproj.CoreCompileInputs.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorAssemblyInfo.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorAssemblyInfo.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\staticwebassets\NewsPortal.StaticWebAssets.Manifest.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\staticwebassets\NewsPortal.StaticWebAssets.xml
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsPortal.styles.css
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.TagHelpers.input.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.TagHelpers.output.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorCoreGenerate.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Users.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Delete.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Moderator\Views\Home\Dashboard.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewsDetails.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowbizNews.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\SportNews.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\TeknologjiNews.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NewsLayout.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorTargetAssemblyInfo.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorTargetAssemblyInfo.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.Views.pdb
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csproj.CopyComplete
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.dll
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.pdb
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.genruntimeconfig.cache
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\ListRoles.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateUser.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\ListUsers.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Web Programming Project\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.StaticWebAssets.xml
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.exe
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.deps.json
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.runtimeconfig.json
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.runtimeconfig.dev.json
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.pdb
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.Views.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NewsPortal.Views.pdb
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csprojAssemblyReference.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.AssemblyInfoInputs.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.AssemblyInfo.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csproj.CoreCompileInputs.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorAssemblyInfo.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorAssemblyInfo.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\staticwebassets\NewsPortal.StaticWebAssets.Manifest.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\staticwebassets\NewsPortal.StaticWebAssets.xml
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsPortal.styles.css
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.TagHelpers.input.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.TagHelpers.output.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorCoreGenerate.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateUser.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\ListRoles.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\ListUsers.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Users.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Delete.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Moderator\Views\Home\Dashboard.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewsDetails.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowbizNews.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\SportNews.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\TeknologjiNews.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NewsLayout.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorTargetAssemblyInfo.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.RazorTargetAssemblyInfo.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.Views.pdb
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.csproj.CopyComplete
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.dll
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.pdb
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\NewsPortal.genruntimeconfig.cache
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditRole.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\AccessDenied.cshtml.g.cs
+C:\AspNetProjekti\NewsPortal\NewsPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUser.cshtml.g.cs
